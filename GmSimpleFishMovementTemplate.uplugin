@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "GmSimpleFishMovementTemplate",
+	"Description": "An example project of basic fish movement is provided as an Unreal Engine C++ template.",
+	"Category": "Template",
+	"CreatedBy": "DevGaeMyo",
+	"CreatedByURL": "https://www.youtube.com/@gaemyo0723/videos",
+	"DocsURL": "https://youtu.be/MZLsW9EAGZ4?si=GzqzN_GriatU2Tyw",
+	"MarketplaceURL": "https://publish.unrealengine.com/v3/edit-product/9db52008666349a7abbfc7832581fd7d",
+	"SupportURL": "https://youtu.be/MZLsW9EAGZ4?si=GzqzN_GriatU2Tyw",
+	"EngineVersion": "5.2.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "GmSimpleFishMovementTemplate",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "EnhancedInput",
+			"Enabled": true
+		}
+	]
+}
